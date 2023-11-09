@@ -1,0 +1,8 @@
+tk
+googletrans==3.1.0a0
+gTTS
+python-vlc
+SpeechRecognition
+vosk
+pyaudio
+# neueste Version vlc 64
